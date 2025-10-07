@@ -1,4 +1,4 @@
-# 📊 Uniqlo Sales Prediction Dashboard
+# 📊 Uniqlo Sales Prediction and POS Dashboard
 
 ## 🌐 Live Demo
 Experience the live web application here:  
